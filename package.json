@@ -1,0 +1,27 @@
+{
+  "name": "mosaic-logger",
+  "version": "0.1.0",
+  "description": "A simple logging class",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-mosaic": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lint": "eslint --ext=.js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosaic-development-studio/mosaic-logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "Mike Skalandunas <mskalandunas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mosaic-development-studio/mosaic-logger/issues"
+  },
+  "homepage": "https://github.com/mosaic-development-studio/mosaic-logger#readme"
+}
